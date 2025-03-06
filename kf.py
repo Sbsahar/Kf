@@ -12,7 +12,7 @@ from queue import Queue
 
 # إعدادات البوت
 TOKEN = '8196365414:AAEUhb_Puvx8IVrKvbLAuJ8xz1IeRWw-2Ec'
-CHANNEL_USERNAME = '@SYR_SB'
+CHANNEL_USERNAME = 'SYR_SB'
 CHANNEL_URL = 'https://t.me/SYR_SB'
 PROGRAMMER_URL = 'https://t.me/SB_SAHAR'
 DEVELOPER_ID = '6789179634'  # معرف المطور
